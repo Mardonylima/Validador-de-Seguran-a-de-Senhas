@@ -1,0 +1,1 @@
+# Validador-de-Seguran-a-de-Senhas
